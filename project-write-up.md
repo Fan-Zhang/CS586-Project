@@ -3,7 +3,7 @@
 
 ### ER Diagram
 
-![ER Diagram]()
+![ER Diagram](https://github.com/Fan-Zhang/CS586-Project/blob/master/ER-Diagram.png?raw=true)
 
 
 ### CREATE TABLE Statements
@@ -1404,5 +1404,5 @@ tables, done with a Linux shell and common Linux tools:
 
 ### Listing of the Contents of All Tables
 
-Please click [this link]() to view files on GitHub.
+Please click [this link](https://github.com/Fan-Zhang/CS586-Project/tree/master/table-contents) to view files on GitHub.
 
